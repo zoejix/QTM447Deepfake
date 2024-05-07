@@ -4,7 +4,7 @@
 
 
 
-DeepFake Image Detection with MTCNN and ViT
+DeepFake Image Detection with MTCNN and ViT \\
 By
 Max Cao, Alina Chen, Zoe Ji
 A final project for class QTM 447 of Emory College of Arts and Sciences
